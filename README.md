@@ -4,6 +4,5 @@
 <br>
 <img src="https://raw.githubusercontent.com/erthru/Whatsapp-Clone/master/ss1.png" height="737px" width="427px" /><br>
 <img src="https://raw.githubusercontent.com/erthru/Whatsapp-Clone/master/ss2.png" height="737px" width="427px" /><br>
-<img src="https://raw.githubusercontent.com/erthru/Whatsapp-Clone/master/ss3.png" height="737px" width="427px" /><br>
 <img src="https://raw.githubusercontent.com/erthru/Whatsapp-Clone/master/ss4.png" height="737px" width="427px" /><br>
 <img src="https://raw.githubusercontent.com/erthru/Whatsapp-Clone/master/ss5.png" height="737px" width="427px" /><br>
