@@ -7,21 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9702F6BA22DDB0B6008808DA /* RecentUpdate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9702F6B922DDB0B6008808DA /* RecentUpdate.swift */; };
+		9702F6BD22DDB102008808DA /* RecentUpdatesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9702F6BC22DDB102008808DA /* RecentUpdatesCell.swift */; };
+		9702F6BF22DDBFAB008808DA /* Call.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9702F6BE22DDBFAB008808DA /* Call.swift */; };
+		9702F6C122DDC59C008808DA /* CallCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9702F6C022DDC59C008808DA /* CallCell.swift */; };
+		9702F6C422DDE4C5008808DA /* TransitionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9702F6C322DDE4C5008808DA /* TransitionHandler.swift */; };
 		973B76A022DD934100703DA7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973B769F22DD934100703DA7 /* AppDelegate.swift */; };
-		973B76A222DD934100703DA7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973B76A122DD934100703DA7 /* ViewController.swift */; };
+		973B76A222DD934100703DA7 /* MainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973B76A122DD934100703DA7 /* MainController.swift */; };
 		973B76A522DD934100703DA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 973B76A322DD934100703DA7 /* Main.storyboard */; };
 		973B76A722DD934300703DA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 973B76A622DD934300703DA7 /* Assets.xcassets */; };
 		973B76AA22DD934300703DA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 973B76A822DD934300703DA7 /* LaunchScreen.storyboard */; };
+		973B76B322DD93E300703DA7 /* StatusController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973B76B222DD93E300703DA7 /* StatusController.swift */; };
+		973B76B522DD941400703DA7 /* CallsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973B76B422DD941400703DA7 /* CallsController.swift */; };
+		973B76B722DD943900703DA7 /* CameraController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973B76B622DD943900703DA7 /* CameraController.swift */; };
+		973B76B922DD945100703DA7 /* ChatsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973B76B822DD945100703DA7 /* ChatsController.swift */; };
+		973B76BB22DD946200703DA7 /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973B76BA22DD946200703DA7 /* SettingsController.swift */; };
+		973B76BE22DD9E4500703DA7 /* UIColor-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973B76BD22DD9E4500703DA7 /* UIColor-Extension.swift */; };
+		976A639B22DDF5320026A3AF /* UIImage-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976A639A22DDF5320026A3AF /* UIImage-Extension.swift */; };
+		976A639D22DE017F0026A3AF /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976A639C22DE017F0026A3AF /* Chat.swift */; };
+		976A639F22DE031A0026A3AF /* ChatCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976A639E22DE031A0026A3AF /* ChatCell.swift */; };
+		979B748322DE1D0A007BEA4B /* SettingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 979B748222DE1D0A007BEA4B /* SettingCell.swift */; };
+		979B748522DE1D2C007BEA4B /* Setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 979B748422DE1D2C007BEA4B /* Setting.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9702F6B922DDB0B6008808DA /* RecentUpdate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecentUpdate.swift; sourceTree = "<group>"; };
+		9702F6BC22DDB102008808DA /* RecentUpdatesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecentUpdatesCell.swift; sourceTree = "<group>"; };
+		9702F6BE22DDBFAB008808DA /* Call.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Call.swift; sourceTree = "<group>"; };
+		9702F6C022DDC59C008808DA /* CallCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallCell.swift; sourceTree = "<group>"; };
+		9702F6C322DDE4C5008808DA /* TransitionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionHandler.swift; sourceTree = "<group>"; };
 		973B769C22DD934100703DA7 /* Whatsapp Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whatsapp Clone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		973B769F22DD934100703DA7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		973B76A122DD934100703DA7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		973B76A122DD934100703DA7 /* MainController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainController.swift; sourceTree = "<group>"; };
 		973B76A422DD934100703DA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		973B76A622DD934300703DA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		973B76A922DD934300703DA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		973B76AB22DD934300703DA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		973B76B222DD93E300703DA7 /* StatusController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusController.swift; sourceTree = "<group>"; };
+		973B76B422DD941400703DA7 /* CallsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallsController.swift; sourceTree = "<group>"; };
+		973B76B622DD943900703DA7 /* CameraController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraController.swift; sourceTree = "<group>"; };
+		973B76B822DD945100703DA7 /* ChatsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatsController.swift; sourceTree = "<group>"; };
+		973B76BA22DD946200703DA7 /* SettingsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
+		973B76BD22DD9E4500703DA7 /* UIColor-Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor-Extension.swift"; sourceTree = "<group>"; };
+		976A639A22DDF5320026A3AF /* UIImage-Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage-Extension.swift"; sourceTree = "<group>"; };
+		976A639C22DE017F0026A3AF /* Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
+		976A639E22DE031A0026A3AF /* ChatCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatCell.swift; sourceTree = "<group>"; };
+		979B748222DE1D0A007BEA4B /* SettingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingCell.swift; sourceTree = "<group>"; };
+		979B748422DE1D2C007BEA4B /* Setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Setting.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +67,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9702F6BB22DDB0F4008808DA /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				9702F6BC22DDB102008808DA /* RecentUpdatesCell.swift */,
+				9702F6C022DDC59C008808DA /* CallCell.swift */,
+				976A639E22DE031A0026A3AF /* ChatCell.swift */,
+				979B748222DE1D0A007BEA4B /* SettingCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		9702F6C222DDE4B2008808DA /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				9702F6C322DDE4C5008808DA /* TransitionHandler.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
 		973B769322DD934100703DA7 = {
 			isa = PBXGroup;
 			children = (
@@ -54,14 +105,51 @@
 		973B769E22DD934100703DA7 /* Whatsapp Clone */ = {
 			isa = PBXGroup;
 			children = (
+				9702F6C222DDE4B2008808DA /* Utils */,
+				9702F6BB22DDB0F4008808DA /* Cells */,
+				973B76BF22DDB08D00703DA7 /* Models */,
+				973B76BC22DD9E2F00703DA7 /* Extensions */,
+				973B76B122DD939E00703DA7 /* Controllers */,
 				973B769F22DD934100703DA7 /* AppDelegate.swift */,
-				973B76A122DD934100703DA7 /* ViewController.swift */,
 				973B76A322DD934100703DA7 /* Main.storyboard */,
 				973B76A622DD934300703DA7 /* Assets.xcassets */,
 				973B76A822DD934300703DA7 /* LaunchScreen.storyboard */,
 				973B76AB22DD934300703DA7 /* Info.plist */,
 			);
 			path = "Whatsapp Clone";
+			sourceTree = "<group>";
+		};
+		973B76B122DD939E00703DA7 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				973B76A122DD934100703DA7 /* MainController.swift */,
+				973B76B222DD93E300703DA7 /* StatusController.swift */,
+				973B76B422DD941400703DA7 /* CallsController.swift */,
+				973B76B622DD943900703DA7 /* CameraController.swift */,
+				973B76B822DD945100703DA7 /* ChatsController.swift */,
+				973B76BA22DD946200703DA7 /* SettingsController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		973B76BC22DD9E2F00703DA7 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				973B76BD22DD9E4500703DA7 /* UIColor-Extension.swift */,
+				976A639A22DDF5320026A3AF /* UIImage-Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		973B76BF22DDB08D00703DA7 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				9702F6B922DDB0B6008808DA /* RecentUpdate.swift */,
+				9702F6BE22DDBFAB008808DA /* Call.swift */,
+				976A639C22DE017F0026A3AF /* Chat.swift */,
+				979B748422DE1D2C007BEA4B /* Setting.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +223,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				973B76A222DD934100703DA7 /* ViewController.swift in Sources */,
+				979B748322DE1D0A007BEA4B /* SettingCell.swift in Sources */,
+				973B76A222DD934100703DA7 /* MainController.swift in Sources */,
+				9702F6C122DDC59C008808DA /* CallCell.swift in Sources */,
+				973B76BE22DD9E4500703DA7 /* UIColor-Extension.swift in Sources */,
+				973B76B322DD93E300703DA7 /* StatusController.swift in Sources */,
 				973B76A022DD934100703DA7 /* AppDelegate.swift in Sources */,
+				9702F6BF22DDBFAB008808DA /* Call.swift in Sources */,
+				973B76BB22DD946200703DA7 /* SettingsController.swift in Sources */,
+				979B748522DE1D2C007BEA4B /* Setting.swift in Sources */,
+				973B76B522DD941400703DA7 /* CallsController.swift in Sources */,
+				973B76B722DD943900703DA7 /* CameraController.swift in Sources */,
+				976A639F22DE031A0026A3AF /* ChatCell.swift in Sources */,
+				9702F6C422DDE4C5008808DA /* TransitionHandler.swift in Sources */,
+				973B76B922DD945100703DA7 /* ChatsController.swift in Sources */,
+				9702F6BA22DDB0B6008808DA /* RecentUpdate.swift in Sources */,
+				9702F6BD22DDB102008808DA /* RecentUpdatesCell.swift in Sources */,
+				976A639D22DE017F0026A3AF /* Chat.swift in Sources */,
+				976A639B22DDF5320026A3AF /* UIImage-Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
